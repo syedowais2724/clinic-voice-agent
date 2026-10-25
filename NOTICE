@@ -1,0 +1,9 @@
+This project builds on two LiveKit open-source projects:
+
+- backend/ is based on the healthcare example from LiveKit Agents
+  (https://github.com/livekit/agents/tree/main/examples/healthcare, commit d4de578),
+  licensed under the Apache License 2.0. See LICENSE.
+
+- frontend/ is based on LiveKit's Agent Starter for React
+  (https://github.com/livekit-examples/agent-starter-react, commit 9e1fc2f),
+  licensed under the MIT License. See frontend/LICENSE.
